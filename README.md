@@ -5,6 +5,11 @@
 
 본 웹은 **SPA로 구성한 웹**으로 헬스장을 대상으로 만들었으며 [posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)을 이용하여 사용자의 신체의 비대칭을 측정합니다.  
 
+홈페이지의 로그인에서 아래의 정보로 관리자(관장)로 로그인할 수 있습니다.
+
+id: was1383
+password: 123123
+
 - **기능과 기능, 특징**
   - [로그인](#로그인)
   - [회원추가](#회원추가)
