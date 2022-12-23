@@ -27,12 +27,13 @@
   실제로 구동되는 코드는 제 private repo의 원본에 있습니다.  
   **따라서, 이 소스코드로는 웹이 동작하지 않습니다. 아래 웹사이트 주소로 접속해주시기 바랍니다.**
 
-- **웹사이트 주소**: [https://mybodycheck.herokuapp.com/](https://mybodycheck.herokuapp.com/)
 
-  > 아래의 정보로 관리자(관장)로 로그인할 수 있습니다.  
-  > 
-  > **id**: was1383  
-  > **password**: 123123
+- ~~**웹사이트 주소**: [https://mybodycheck.herokuapp.com/](https://mybodycheck.herokuapp.com/)~~ (heroku의 무료 플랜 중단 이후 페이지를 닫았습니다.)
+
+  > ~~아래의 정보로 관리자(관장)로 로그인할 수 있습니다.~~  
+  >
+  > ~~**id**: was1383~~  
+  > ~~**password**: 123123~~
 
 - **사용된 대표적인 기술 및 패키지**
 1. **프론트 엔드**
